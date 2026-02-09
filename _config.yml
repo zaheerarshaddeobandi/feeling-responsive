@@ -11,7 +11,42 @@
 title: 'Feeling Responsive'
 
 # The slogan describes your website and is used on homepage in <title> and other important places
-slogan: 'A Flexible Theme for Jekyll'
+slogan: 'A Flexible Theme for Jekyll'# ==========================================
+# ZAHEER ARSHAD - PROFESSIONAL CONFIGURATION
+# ==========================================
+
+# 1. वेबसाइट की मुख्य पहचान
+title: 'Silent Spiritual Capital'
+slogan: 'Professional Tourism Management by Zaheer Arshad (MTTM)'
+
+# SEO के लिए 150 शब्दों का विवरण (Page-165: Encoding)
+description: 'Expert spiritual travel management and global tourism ethics. Guided by Zaheer Arshad, bridging tradition with international quality standards.'
+
+# क्रेडिट्स - यहाँ आप अपना नाम लिख सकते हैं
+credits: '<p>Managed by Zaheer Arshad (MTTM). Theme by Phlow.</p>'
+
+# 2. लेखक की जानकारी
+author: zaheerarshaddeobandi
+
+# 3. सबसे ज़रूरी सेटिंग (URL Fix)
+# चूँकि आपकी साइट 'feeling-responsive' फोल्डर में है, इसे ऐसे ही रखें:
+url: 'https://zaheerarshaddeobandi.github.io'
+baseurl: '/feeling-responsive'
+
+# 4. इमेज और लोगो
+# अगर आपके पास लोगो नहीं है, तो अभी इसे खाली छोड़ दें
+urlimg: 'https://zaheerarshaddeobandi.github.io/feeling-responsive/images/'
+logo: "logo.png"
+
+# 5. सोशल मीडिया (Marketing Strategy - Page 164)
+# अपना असली यूजरनेम यहाँ लिखें
+socialmedia:
+    twitter   : your_twitter_handle
+    facebook  : your_facebook_page
+    instagram : your_insta_id
+
+# 6. भाषा
+language: 'en' # या 'hi' अगर आप पूरी साइट हिंदी में चाहते हैं
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
 description: '»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.'
